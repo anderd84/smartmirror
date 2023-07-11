@@ -4,7 +4,8 @@ reaaaad me
 
 Its pronounced Gooie not GUI
 
-
+JavaScript Resources: 
+https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1
 
 
 
