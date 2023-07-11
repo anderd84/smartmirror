@@ -1,4 +1,5 @@
 # smartmirror
 
 reaaaad me
-NO
+
+Its pronounced Gooie not GUI
