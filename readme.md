@@ -1,16 +1,23 @@
 # smartmirror
 
-reaaaad me
+# List of Integrations:
+    1. Google Weather
+    2. Google Calendar
+    4. Spotify
+    5. Youtube
+    6. Google Assistant
+    7. Google Maps 
+    8. Google News
+    9. Google Photos
 
-Its pronounced Gooie not GUI
-
+# Resources
 JavaScript Resources: 
 https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1
 
 
 
 
-shit to git:
+# List of Materials:
 Infared Frame: 
   https://www.amazon.com/GreenTouch-Infrared-Without-Interface-Free-Drive/dp/B078T62LGF?th=1
   
