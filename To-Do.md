@@ -4,5 +4,7 @@ We can also devide up tasks here
 
 
 Task List:
-    1. Teach David how to pronounce GUI
-    2. Start programing
+    1. Create a List of materials needed
+    2. Create a list of integrations that we want the mirror to have
+    3. Figure out how we want to implement the integrations
+    
