@@ -18,6 +18,12 @@ https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1
 
 
 # List of Materials:
+  1. Raspberry Pi
+  2. Monitor
+  3. Infared Frame
+  4. 2 Way Mirror
+
+# Links:
 Infared Frame: 
   https://www.amazon.com/GreenTouch-Infrared-Without-Interface-Free-Drive/dp/B078T62LGF?th=1
   
