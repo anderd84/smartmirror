@@ -5,4 +5,4 @@ We can also devide up tasks here
 
 Task List:
     1. Teach David how to pronounce GUI
-    2. Create the program design for guielements.py
+    2. Start programing

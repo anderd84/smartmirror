@@ -1,4 +1,16 @@
-if zamn:
-    plotRocket(zamn, 'ZAMN')
-else:
-    print("Rocket No go BURRRR")
+def main():
+    pass
+
+
+
+
+
+
+
+
+
+
+
+
+if __name__ == "__main__":
+    main()
