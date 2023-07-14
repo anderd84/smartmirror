@@ -18,20 +18,24 @@ import pickle
 
 #google imports 
 
-WIDTH = 1920 
-HEIGHT = 1080
-
 # Weather API
 
-#News API credentials
+# News API credentials
+
+# Google Calendar API credentials
+
+# Spotify API credentials
+
+
 
 class GUI(Frame):
+    '''This class will create the GUI and all of its elements'''
 
     def __init__():
         pass
 
     def setup_GUI():
-        '''This function will set up the GUI and all of its elements'''
+        '''This function will set up the GUI and all of its elements''' 
         pass
 
     def weather():
@@ -76,5 +80,9 @@ class GUI(Frame):
 
     def google():
         '''This function will display a google search bar'''
+        pass
+
+    def alarm_clock():
+        '''This function will allow the user to input a time to set an alarm'''
         pass
 

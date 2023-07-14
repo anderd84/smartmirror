@@ -1,3 +1,11 @@
+'''Program Design:
+    1. Run GUI'''
+
+# imports
+# custom imports
+from guielements import GUI
+
+
 def main():
     pass
 
