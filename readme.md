@@ -9,6 +9,7 @@
     7. Google Maps 
     8. Google News
     9. Google Photos
+    10. Alexa (Maybe)
 
 # Resources
 JavaScript Resources: 
