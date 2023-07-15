@@ -1,15 +1,15 @@
 # smartmirror
 
 # List of Integrations:
-    1. Google Weather
-    2. Google Calendar
-    4. Spotify
-    5. Youtube
-    6. Google Assistant
-    7. Google Maps 
-    8. Google News
-    9. Google Photos
-    10. Alexa (Maybe)
+  1. Google Weather
+  2. Google Calendar
+  4. Spotify
+  5. Youtube
+  6. Google Assistant
+  7. Google Maps 
+  8. Google News
+  9. Google Photos
+  10. Alexa (Maybe)
 
 # Resources
 JavaScript Resources: 
